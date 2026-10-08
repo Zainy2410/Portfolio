@@ -80,3 +80,37 @@ footer {
     object-fit: cover;
     border: 5px solid #a42844;
 }
+
+form {
+    max-width: 500px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #f4beca;
+    border-radius: 5px;
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #a42844;
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #831F35;
+}
