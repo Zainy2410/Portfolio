@@ -114,3 +114,30 @@ button {
 button:hover {
     background-color: #831F35;
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 30px;
+}
+
+caption {
+    font-family: 'Playfair Display', serif;
+    color: #a42844;
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+th {
+    background-color: #831F35;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #f4beca;
+}
