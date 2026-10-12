@@ -141,3 +141,12 @@ td {
     padding: 10px;
     border: 1px solid #f4beca;
 }
+
+a {
+    color: #a42844;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #831F35;
+}
