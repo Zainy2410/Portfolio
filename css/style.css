@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #a42844;
+    background-color: #831F35;
 }
 
 .actief {
@@ -159,7 +159,7 @@ iframe {
 }
 
 .balk {
-    background-color: #ffffff;
+    background-color: #f4beca;
     height: 8px;
     max-width: 300px;
     border-radius: 4px;
