@@ -171,3 +171,11 @@ iframe {
     height: 100%;
     border-radius: 5px;
 }
+
+.hobbyfoto{
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    border: 3px solid #f4beca;
+    margin-bottom: 10px;
+}
