@@ -157,3 +157,17 @@ iframe {
     border: 3px solid #f4beca;
     margin-top: 10px;
 }
+
+.balk {
+    background-color: #ffffff;
+    height: 8px;
+    max-width: 300px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.balk-vulling {
+    background-color: #a42844;
+    height: 100%;
+    border-radius: 5px;
+}
